@@ -1,0 +1,8 @@
+This SRS was designed by my entire Software Engineering class. The SRS was for a 
+homework tracking app that would sync with class calendars as well as store the 
+information on the cloud. My role was a reviewer. It was my job to make sure that 
+everything was done correctly. I would read through the document and make sure that 
+everything was defined, formating was correct, phrasing was correct, make sure sections 
+were not duplicated, make sure that every function had a verification. In a typical 
+editing session I would spend about 5 hours reviews and commenting. Once done I would 
+report to the team leads to get approval for changes.
